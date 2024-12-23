@@ -1,0 +1,99 @@
+qestion1:
+1-
+«бг ж”Ў еж гћгжЏ «бёнг гё”жг Џбм Џѕѕе« жеж гд«”» Џдѕг«  яжд «бёнг ё—н»е гд »Џ÷е«, «бгдж«б еж «бёнге «б«яЋ—  я—«—« гд«”» Џдѕ  Ќбнб «б»н«д«  гд ЌнЋ «б«яЋ— ‘нжЏ« »ндег, еж «бёнг… «б н  ёЏ Ён гд ’Ё «б — н» «б ’«Џѕн бб»н«д« 
+
+2-
+«б »н«нд нён” гѕм  ‘   «б»н«д«  «ж «бёнг Ќжб «бг ж”Ў ЌнЋ varaince = гћгжЏ f * (x-mean)^2 / n
+«б«дЌ—«Ё «бгЏн«—н нён” гѕм  ‘   «б»н«д«  Ќжб «бг ж”Ў жбяде  ё—н»« няжд √ѕё гд «б »«нд ЌнЋ «де нгЋб гёѕ«— «б ‘   «бде«∆н 
+
+varaince = (standard deviation)^2
+
+3-
+
+
+4-
+«бёнг «бг Ў—Ё… ен «бёнг «б н  яжд »Џнѕ… ћѕр« Џд »«ён «бёнг ж ƒЋ— Џбм «бг ж”Ў ж ћЏбе џн— гЏ»— Џд  бя «бёнг
+
+
+5-
+Population: еж яб «бёнг «бггяд… «б н нгяд ѕ—«” е«
+Sample: ен ћ“Ѕ гд «бгћ гЏ н г «ќ н«—е бб ћ—»е «ж «бѕ—«”е
+mode, mean, varaince  Ў»ё Џбм «бгћ гЏ ж«бЏнд…° бяд «б ёѕн—«  Џбм «бЏнд…  х” ќѕг я»ѕнб Џдѕ ’Џж»… ѕ—«”… «бгћ гЏ »√ягбе
+
+6-
+Discrete: н√Ќ– ёнг гЌѕѕе
+Continuous: н√ќ– ёнг ÷гд гѕм «ж Ё —е гЏнде
+
+7-
+PMF: н г «” ” ќѕ«ге« ббг џн—«  «бгдЁ’б… ж ЏЎн Ёнг… «Ќ г«бне гЌѕѕе ббг џн—
+PDF: н г «” ” ќѕ«ге« ббг џн—«  «бг ’б… ж гЋб «бяЋ«Ё… «б«Ќ г«бн…° ЌнЋ няжд гћгжЏ «б«Ќ г«б«  = 1
+
+8-
+ ё—н»«
+68% гд «б»н«д«   ёЏ ÷гд «дЌ—«Ё гЏн«—н ж«Ќѕ
+95% гд «б»н«д«   ёЏ ÷гд «дЌ—«Ёнд гЏн«—ннд
+99.7% гд «б»н«д«   ёЏ ÷гд Ћб«Ћ… «дЌ—«Ё«  гЏн«—н…
+
+
+qestion2:
+гд «бћѕжб дЌ”» гћгжЏ F = 20
+дЌ”» гћгжЏ Value * F = 146
+дЌ”» mean = 146 / 20 = 7.3
+дЌ”» гћгжЏ F * ( Value - mean)^2 = 793.8
+дЌ”» varaince = (standard deviation)^2 = 793.8 / 20 = 39.69
+дЌ”» standard deviation = 6.3
+mode = 9 ЌнЋ «де «бёнге «б«яЋ—  я—«—«
+median »Џѕ  — н» «бёнг » я—«—«ег н’»Ќ Џѕѕег = 20 
+so median = 20 / 2 = 10 and 11
+
+
+qestion3:
+«бгдж«б ”няжд  ћ«е «бнгнд »‘яб я»н— б«де еж «бёнге «б«яЋ—  я—«—« жгд «б—”г Ёе–е «бёнге  ћ«е 10 ж 9 
+«бг ж”Ў еж гћгжЏ «бёнг Џбм Џѕѕег ждў—« б«д «яЋ— «б«Џѕ«ѕ  ћ«е «бнгнд Џдѕ 9 ж 10 Ё”няжд гдЌ«“  ћ«егг
+«бж”нЎб«√ёб  √Ћ—р« »«бёнг «бя»н—… б√де нЏ гѕ Џбм «бёнг «бгжћжѕ… Ён гд ’Ё «б ж“нЏ »” енгнб «н÷«  ћ«е «бнгнд »”»» «бЏѕѕ «бя»н—  ћ«е «бнгнд »”»» «бёнг 9 ж 10
+
+
+qestion4:
+1- 
+containers allow storing different types of data for easy access and execution of certain tasks on them.
+
+List, Set, Tuple and dictionary
+list {1, 2, "Mohamed", X} ordered and can be changed, allows duplicate elements, supports indexing and slicing and can hold different data types
+
+Tuple (1, 2, "Mohamed") ordered but immutable, it contains fixed values and 
+Allows duplicate elements.
+
+Set {0, 2, 4} unordered and can be changed, does not allow duplicate elements and Supports operations such as union, intersection, and difference.
+
+Dictionary dict = {"name": "Mohamed", "age": 19} unordered set of key value pairs. Keys must be unique and immutable, Values ??can be any type, and can be repeated.
+
+2-
+гЏ—Ёе«‘ »”  ё—н»« » »ём гЏ √Ќѕ гя »«  »«нЋжд “н pandas  ё—н»«
+
+3-
+org_list = [1, 2, 3, 4, 5]
+ rev_list = org_list[::-1] 
+
+4-
+break
+When you need to stop the loop once a certain condition is true and it desnt print this condition.
+
+pass
+г» Џгб‘ Ќ«ће »” Џ‘«д бж г‘ Џ«н“нд «бяжѕ нёЁ »дЌЎе« Џ‘«д «бяжѕ нягб Џ«ѕн «ж дЏгб ѕ«бе жд”н»е« Ё«÷не бЌѕ г« дгб«е« Ё»дЌЎе«
+
+continue
+When you want to skip the execution of some instructions in the current iteration based on a certain condition.
+
+5-
+[11, 2, 3, 4, 5]
+ Џ‘«д a = b Ё«б џнн— енЌ’б Ёяб« гдег б«дег дЁ” «б‘∆
+
+6-
+[1] [1, 1] [1, 1, 1]
+ «жб г—е Ёне ёнге «Ё —«÷не бб list »Џѕнд яб г—е »н÷«Ё ж«Ќѕ
+
+7- 
+б”е еѕ—”е« »” «ббн «Џ—Ёе «де Џ»«—е Џд classes and objects ж»Ќжб «бяжѕ б«ћ“«Ѕ ’џн—е ё«ѕ—е «де«  дЁ– «гж— гЏнде ж  Џ«гб гЏ »Џ÷е« «б»Џ÷ ж»няжд Ёне class ѕ« «ббн »нж—Ћ где objects »Џ÷ ’Ё« е «б«”«”не гЏ  “жнѕ ’Ё«  ћѕнѕе
+
+8- 
+Џ»«—е Џд «дд« »дЌ«жб дќбн «бяжѕ «яЋ— ”ежбе ж”еб ббё—«Ѕе жћЏб «бѕж«б ѕн  дЁ– «бге«г гд џн— г« д Џ» жддЁ–е« «Ќд« Ён ќЎж«  я н— ж» »ём Ќжб «бѕж«б «б—н«÷не ж дЁён– »Џ÷ «бЌ”«»«  ж«б Џ«гб гЏ «б«—ё«г
